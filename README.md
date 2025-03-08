@@ -11,7 +11,6 @@ Features 🚀
 
 ✅ Clean and user-friendly UI
 
-https://github.com/user-attachments/assets/f1e2d4e5-61d0-4696-a056-0b0d197304e7
 
 
 Tech Stack 🛠️
@@ -20,7 +19,9 @@ Frontend: Flutter (Dart)
 
 Backend: N/A (Local calculation, but excluded in the repository(Confidential Information))
 
-Recording
+Recording:
+
+https://github.com/user-attachments/assets/f1e2d4e5-61d0-4696-a056-0b0d197304e7
 
 
 Status 📌
