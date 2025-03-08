@@ -20,9 +20,9 @@ Frontend: Flutter (Dart)
 Backend: N/A (Local calculation)
 
 
-Screenshots 📸
+Recording 📸
 
-(Add images here)
+<!-- Uploading "Desktop 2025.03.08 - 15.34.38.01.mp4"... -->
 
 
 Status 📌
