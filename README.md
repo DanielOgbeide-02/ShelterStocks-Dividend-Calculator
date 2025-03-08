@@ -22,8 +22,7 @@ Backend: N/A (Local calculation)
 
 Recording 📸
 
-<!-- Uploading "Desktop 2025.03.08 - 15.34.38.01.mp4"... -->
-
+https://github.com/user-attachments/assets/f1e2d4e5-61d0-4696-a056-0b0d197304e7
 
 Status 📌
 
